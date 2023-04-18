@@ -1,1 +1,1 @@
-# PRO-C144-Reference-Code
+# Movie recommendation mobile app using react-native and flask api
